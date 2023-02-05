@@ -1,0 +1,23 @@
+.mensages h1 {
+    color: #04aab6;
+    text-align: center;
+    z-index: 1;
+}
+
+.foto h1,
+h3,
+p {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    max-width: 800px;
+    position: relative;
+    text-align: justify;
+}
+
+h1 {
+    color: #154;
+    letter-spacing: 0.2cm;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
